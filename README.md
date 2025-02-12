@@ -6,11 +6,6 @@ This project aims to build a logistic regression model to assign a lead score be
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Understanding and Preparation](#data-understanding-and-preparation)
-- [Model Building and Evaluation](#model-building-and-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
